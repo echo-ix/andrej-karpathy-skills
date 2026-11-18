@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-Echoix- 将 [multica-ai 整理的编程指南](https://github.com/multica-ai/andrej-karpathy-skills/tree/2c606141936f1eeef17fa3043a72095b4765b9c2)打包为 Codex 插件。这份[技能](skills/karpathy-guidelines/SKILL.md)完整保留了上游原文，其灵感来自 [Andrej Karpathy 对 AI 辅助编程的观察](https://x.com/karpathy/status/2015883857489522876)。
+将 [multica-ai 整理的编程指南](https://github.com/multica-ai/andrej-karpathy-skills/tree/2c606141936f1eeef17fa3043a72095b4765b9c2)打包为 Codex 插件。这份[技能](skills/karpathy-guidelines/SKILL.md)完整保留了上游原文，其灵感来自 [Andrej Karpathy 对 AI 辅助编程的观察](https://x.com/karpathy/status/2015883857489522876)。
 
 ## 在 Codex 中安装
 

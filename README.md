@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh.md)
 
-Echoix- packages the coding guidelines from [multica-ai](https://github.com/multica-ai/andrej-karpathy-skills/tree/2c606141936f1eeef17fa3043a72095b4765b9c2) for Codex. The [skill](skills/karpathy-guidelines/SKILL.md) preserves the upstream text inspired by [Andrej Karpathy’s observations](https://x.com/karpathy/status/2015883857489522876).
+packages the coding guidelines from [multica-ai](https://github.com/multica-ai/andrej-karpathy-skills/tree/2c606141936f1eeef17fa3043a72095b4765b9c2) for Codex. The [skill](skills/karpathy-guidelines/SKILL.md) preserves the upstream text inspired by [Andrej Karpathy’s observations](https://x.com/karpathy/status/2015883857489522876).
 
 ## Install in Codex
 
