@@ -9,7 +9,11 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Karpathy Guidelines",
-    "shortDescription": "Keep code changes focused, simple, and verifiable.",
+    "shortDescription": "Focused, verifiable code edits",
+    "developerName": "Echoix-",
+    "capabilities": [],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
     "longDescription": "Apply the four coding principles from multica-ai/andrej-karpathy-skills, inspired by Andrej Karpathy’s observations on AI-assisted programming. Packaged for Codex by Echoix-.",
     "category": "Developer Tools"
   }
