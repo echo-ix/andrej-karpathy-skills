@@ -6,14 +6,16 @@ packages the coding guidelines from [multica-ai](https://github.com/multica-ai/a
 
 ## Install in Codex
 
-From a local clone, run these commands in the repository root:
+Run these commands in your terminal to install from GitHub.
 
 ```shell
-codex plugin marketplace add .
+codex plugin marketplace add echo-ix/andrej-karpathy-skills
 codex plugin add karpathy-guidelines@echoix-skills
 ```
 
-To install directly from GitHub once this version is published, replace the first command with `codex plugin marketplace add echo-ix/andrej-karpathy-skills`. In a new Codex session, try:
+To install from a local clone, run the same commands from the repository root, replacing the first command with `codex plugin marketplace add .`.
+
+Try the plugin in a new Codex session.
 
 ```text
 $karpathy-guidelines:karpathy-guidelines Review this change and verify that it preserves existing behavior.

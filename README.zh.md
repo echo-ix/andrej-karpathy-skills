@@ -6,14 +6,16 @@
 
 ## 在 Codex 中安装
 
-克隆本仓库后，在仓库根目录运行：
+在终端中运行以下命令，即可从 GitHub 安装。
 
 ```shell
-codex plugin marketplace add .
+codex plugin marketplace add echo-ix/andrej-karpathy-skills
 codex plugin add karpathy-guidelines@echoix-skills
 ```
 
-此版本发布到 GitHub 后，也可将第一条命令替换为 `codex plugin marketplace add echo-ix/andrej-karpathy-skills`。在新的 Codex 会话中输入：
+如需从本地克隆安装，请在仓库根目录运行上述命令，并将第一条替换为 `codex plugin marketplace add .`。
+
+安装后，在新的 Codex 会话中试用插件。
 
 ```text
 $karpathy-guidelines:karpathy-guidelines 审查这次改动，验证已有行为是否保持一致。
